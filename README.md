@@ -79,7 +79,7 @@ In the above chart, we try to investigate the cities that have the longest avera
 
 There are more breakdowns on Monday and the frequency of breakdown decreases as the week passes by.
 
-<img src="images/breakdowns.png"
+<img src="images/breakdown.png"
      alt="Days of the Week related to breakdowns"
      style="float: center; width: 600px; height: 400px;" />
 
